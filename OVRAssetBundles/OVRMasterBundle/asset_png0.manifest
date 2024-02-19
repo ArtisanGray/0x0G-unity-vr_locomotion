@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4245202135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 034b75fbab85097c2b19a26c51492b0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 034b75fbab85097c2b19a26c51492b0c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/Texture/DecalWhite_5_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Dust_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Decal_2_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Decal_CORNERS_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Decal_1_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/DecalWhite_6_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/DecalWhite_1_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Decal_CHECK_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Decal_HERE_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Decal_Arrow_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/DecalWhite_3_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/DecalWhite_2_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/DecalWhite_4_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/DecalX_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Decal_3_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/DecalWhite_Draw_d.png
+- Assets/FPS Hangar Environments/_Source/Texture/Decal_FLASH_d.png
+Dependencies: []

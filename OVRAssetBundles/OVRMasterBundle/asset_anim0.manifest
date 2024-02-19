@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 572499498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74cf4545c192233573adb253a1d87549
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 74cf4545c192233573adb253a1d87549
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/Animations/Particles/ParticleHallwaysElectricalSparksBlue.anim
+Dependencies: []

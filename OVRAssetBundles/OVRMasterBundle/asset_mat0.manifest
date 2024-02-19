@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 543705041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b00e0ebe7aa47d68855175edd1af688
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 88f4053155d2c8e8bdeb16c00867b658
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b00e0ebe7aa47d68855175edd1af688
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/TileBrickWhite.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Garbage.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Decal_CHECK.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Satellite.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Brick.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Table.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Wood2.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Wheel.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Container2.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Dust.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/ChairsCabinet.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/GarbageFilth.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Sandbag.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Decal_2.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Decal_FLASH.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/DecalWhite_6.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Decal_HERE.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Container3.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Tower-3.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Decal_Arrow.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Ground.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Flag1.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Flag3.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/WhiteBrick_d.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/DecalWhite_3.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/PlasticIron.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/TileBrick.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Tower-2.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/BarrelGrey.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Plastic.mat
+Dependencies:
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_tga1
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_tga2
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_tga3

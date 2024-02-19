@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3870798926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50477c0612246e13a8a0094089ad31cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 50477c0612246e13a8a0094089ad31cb
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Shaders/TriPlanarWorld.shader
+- Assets/FPS Hangar Environments/_Source/VolumetricLight/VolumetricLightDe.shader
+- Assets/FPS Hangar Environments/_Source/VolumetricLight/VolumetricLight.shader
+Dependencies: []

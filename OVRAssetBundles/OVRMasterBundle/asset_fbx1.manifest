@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1789827736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e00cef1fb8c23e6e9f56846a6310533
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d76d0903a3dfcdecc411f80894a679a8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8e00cef1fb8c23e6e9f56846a6310533
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/Meshes/Container.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick2.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Brick.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick8.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Barracks2.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick4.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick7.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Shelter.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick13.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Chairs.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Cabinet.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick15.FBX
+Dependencies:
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_mat1

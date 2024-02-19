@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3815429028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 970d15d81e235a04c2f664f54dcb6e21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 970d15d81e235a04c2f664f54dcb6e21
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/Texture/Container4_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/WhiteBrick_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/PopcornCar_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/TiledBrick_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/WoodStairs_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container4_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Strip_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Tower-2_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container2_h.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Plastic_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Seat_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Brick_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Sandbag_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/WhiteBrick_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Seat_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Pallet_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/ChairsCabinet_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container3_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Flag2_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Flag_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Satellite_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/AmmoBox_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/AmmoBox_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container1_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container2_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container1_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Ground_h.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container1_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Ground_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Wheel_n.tga
+Dependencies: []

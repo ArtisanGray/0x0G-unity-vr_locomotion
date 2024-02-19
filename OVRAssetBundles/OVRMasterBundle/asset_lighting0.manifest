@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3687895617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26fe95f223d8920ead851fc22d77201b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4b57b1a56d6b76d200651994ae0863
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 26fe95f223d8920ead851fc22d77201b
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/Scene/HangarSettings.lighting
+Dependencies: []

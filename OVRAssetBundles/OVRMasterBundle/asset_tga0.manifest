@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 900397607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63d2eddbb960fd39c630f884279df53e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 63d2eddbb960fd39c630f884279df53e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/Texture/Container4_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Tower-3_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Wood_h.tga
+- Assets/FPS Hangar Environments/_Source/Texture/ChairsCabinet_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/GarbageFilth_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Seat_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/PopcornCar_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container3_hp.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Plastic_h.tga
+- Assets/FPS Hangar Environments/_Source/Texture/BulletBox_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Plastic_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/BarrelRed_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Barrel_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Tower-3_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Tower-1_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Tower-3_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/TiledBrick_h.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container2_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/PopcornCarInternal_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Table_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Ground_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Brick_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Pallet_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Wood_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Sandbag_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Tower-1_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/ChairsCabinet_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Brick_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/BulletBox_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Wheel_d.tga
+Dependencies: []

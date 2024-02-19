@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 455898737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2581864c027ba4e22bc5e621a6f089e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2581864c027ba4e22bc5e621a6f089e1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/DecalWhite_4.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Container1.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/DecalWhite_2.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/DecalWhite_Draw.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Strip.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/DecalX.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Container4.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/BackGround.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/AmmoBox.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Seat.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Tower-1.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/BarrelRed.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/WoodStairs.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/PopcornCarInternal.mat
+- Assets/FPS Hangar Environments/Skyboxes/StudioSkyboxProcedural.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Flag2.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Decal_3.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/DecalWhite_5.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Decal_CORNERS.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/DecalWhite_1.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/BulletBox.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/PopcornCar.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Wood.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Pallet.mat
+- Assets/FPS Hangar Environments/_Source/Meshes/Materials/Decal_1.mat
+Dependencies:
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_tga1
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_tga2
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_tga3

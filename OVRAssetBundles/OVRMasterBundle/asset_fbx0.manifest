@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 1884134108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce7aee8407f13844e56adc2be6aa6cb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d76d0903a3dfcdecc411f80894a679a8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ce7aee8407f13844e56adc2be6aa6cb2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/BulletBoxOut.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick5.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Pallet.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/GarbageFilthOpen.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Seat.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick11.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/GarbageFilth.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Flag.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Table.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Ladder.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/BrickBox.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/PopcornCar.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick9.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick6.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Wheel.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Hangar.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/BulletBoxOpen.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Ground.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/AmmoBox.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick12.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/BarrelRed.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Photo.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick3.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/BarrelGrey.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick14.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Garbage.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/TiledBrick10.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Tower.FBX
+- Assets/FPS Hangar Environments/_Source/Meshes/Barracks.FBX
+Dependencies:
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_mat1

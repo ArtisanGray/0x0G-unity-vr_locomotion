@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 981105236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2252d0de74dde537439be30191735695
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2252d0de74dde537439be30191735695
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/Textures/Particles/ParticleFlare.tif
+Dependencies: []

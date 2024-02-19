@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1079376870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ed0c9202cde6b37bc5cdf2ae1b36102
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6ed0c9202cde6b37bc5cdf2ae1b36102
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/VolumetricLight/VolumetricLight.psd
+- Assets/FPS Hangar Environments/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd
+- Assets/FPS Hangar Environments/_Source/VolumetricLight/VolumetricLightD.psd
+Dependencies: []

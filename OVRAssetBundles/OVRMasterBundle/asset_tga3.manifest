@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2610237677
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 658dcc755eec5fcbae0e193703e907ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 658dcc755eec5fcbae0e193703e907ed
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/_Source/Texture/Brick_h.tga
+- Assets/FPS Hangar Environments/_Source/Texture/TiledBrick_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container2_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Satellite_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Table_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container1_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container3_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Garbage_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Garbage_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Container3_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/BulletBox_s.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Pallet_d.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Tower-2_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/PopcornCar_ao.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Table_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/Wood_n.tga
+- Assets/FPS Hangar Environments/_Source/Texture/WhiteBrick_n.tga
+Dependencies: []

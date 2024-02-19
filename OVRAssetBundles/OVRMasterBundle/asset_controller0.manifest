@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3907486985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e523c08fa73a347389d20e29852eeee8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e523c08fa73a347389d20e29852eeee8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FPS Hangar Environments/Animators/Particles/ParticleHallwaysElectricalSparksBlue.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
+Dependencies:
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/etgoh/Desktop/0x0G-unity-vr_locomotion/0x0G-unity-vr_locomotion/OVRAssetBundles/OVRMasterBundle/asset_fbx0
