@@ -11,6 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Oculus/VR/Scenes/Room.unity
     guid: 54445976c1dbf1c49bb38ba7eba558e8
+  - enabled: 0
+    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/DistanceGrabExamples.unity
+    guid: e1c1f1d4144ac8849ac1833b99bdfd23
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ac8e8ef35ab9bf341a845f5ef91f5ebb, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd1e9f2fd5f4734c9ee71904daa34c2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 92c74a01cafd1d644a7c018f0cd6e63b, type: 2}
